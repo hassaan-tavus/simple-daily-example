@@ -1,0 +1,1 @@
+This is a very simple repo showing how you can use the DailyJS library to get direct streams of participant video/audio and manipulate them to fit into your own UI. When creating a conversation using Tavus CVI you'll recieve back a Daily meeting URL. 
